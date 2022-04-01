@@ -19,6 +19,8 @@
         "/Users/rinkang/butano/butano-9.3.0/template/build",
         "-I",
         "/Users/rinkang/butano/butano-9.3.0/butano/include",
+        "-I",
+        "/Users/rinkang/butano/butano-9.3.0/template",
         "-isystem",
         "/opt/devkitpro/devkitARM/arm-none-eabi/include/c++/11.2.0",
         "-isystem",
